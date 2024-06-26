@@ -1,0 +1,7 @@
+C:\Users\Micro\Desktop\Puc Minas\Atividades PUC\Atp\Trabalho-ATP\Batalha_Naval\Batalha_Naval\bin\Debug\Batalha_Naval.exe.config
+C:\Users\Micro\Desktop\Puc Minas\Atividades PUC\Atp\Trabalho-ATP\Batalha_Naval\Batalha_Naval\bin\Debug\Batalha_Naval.exe
+C:\Users\Micro\Desktop\Puc Minas\Atividades PUC\Atp\Trabalho-ATP\Batalha_Naval\Batalha_Naval\bin\Debug\Batalha_Naval.pdb
+C:\Users\Micro\Desktop\Puc Minas\Atividades PUC\Atp\Trabalho-ATP\Batalha_Naval\Batalha_Naval\obj\Debug\Batalha_Naval.csproj.AssemblyReference.cache
+C:\Users\Micro\Desktop\Puc Minas\Atividades PUC\Atp\Trabalho-ATP\Batalha_Naval\Batalha_Naval\obj\Debug\Batalha_Naval.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Desktop\Puc Minas\Atividades PUC\Atp\Trabalho-ATP\Batalha_Naval\Batalha_Naval\obj\Debug\Batalha_Naval.exe
+C:\Users\Micro\Desktop\Puc Minas\Atividades PUC\Atp\Trabalho-ATP\Batalha_Naval\Batalha_Naval\obj\Debug\Batalha_Naval.pdb

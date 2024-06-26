@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Atividades PUC\\Atp\\Trabalho-ATP\\Batalha_Naval\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9253355B-C6AB-4E5F-A5E7-E5896A82455D}|Batalha_Naval\\Batalha_Naval.csproj|c:\\users\\micro\\desktop\\puc minas\\atividades puc\\atp\\trabalho-atp\\batalha_naval\\batalha_naval\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9253355B-C6AB-4E5F-A5E7-E5896A82455D}|Batalha_Naval\\Batalha_Naval.csproj|solutionrelative:batalha_naval\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9253355B-C6AB-4E5F-A5E7-E5896A82455D}|Batalha_Naval\\Batalha_Naval.csproj|c:\\users\\micro\\desktop\\puc minas\\atividades puc\\atp\\trabalho-atp\\batalha_naval\\batalha_naval\\jogadorhumano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9253355B-C6AB-4E5F-A5E7-E5896A82455D}|Batalha_Naval\\Batalha_Naval.csproj|solutionrelative:batalha_naval\\jogadorhumano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9253355B-C6AB-4E5F-A5E7-E5896A82455D}|Batalha_Naval\\Batalha_Naval.csproj|c:\\users\\micro\\desktop\\puc minas\\atividades puc\\atp\\trabalho-atp\\batalha_naval\\batalha_naval\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9253355B-C6AB-4E5F-A5E7-E5896A82455D}|Batalha_Naval\\Batalha_Naval.csproj|solutionrelative:batalha_naval\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9253355B-C6AB-4E5F-A5E7-E5896A82455D}|Batalha_Naval\\Batalha_Naval.csproj|c:\\users\\micro\\desktop\\puc minas\\atividades puc\\atp\\trabalho-atp\\batalha_naval\\batalha_naval\\embarcacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9253355B-C6AB-4E5F-A5E7-E5896A82455D}|Batalha_Naval\\Batalha_Naval.csproj|solutionrelative:batalha_naval\\embarcacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JogadorHumano.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Atividades PUC\\Atp\\Trabalho-ATP\\Batalha_Naval\\Batalha_Naval\\JogadorHumano.cs",
+              "RelativeDocumentMoniker": "Batalha_Naval\\JogadorHumano.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Atividades PUC\\Atp\\Trabalho-ATP\\Batalha_Naval\\Batalha_Naval\\JogadorHumano.cs",
+              "RelativeToolTip": "Batalha_Naval\\JogadorHumano.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAcwEoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T13:12:44.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Posicao.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Atividades PUC\\Atp\\Trabalho-ATP\\Batalha_Naval\\Batalha_Naval\\Posicao.cs",
+              "RelativeDocumentMoniker": "Batalha_Naval\\Posicao.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Atividades PUC\\Atp\\Trabalho-ATP\\Batalha_Naval\\Batalha_Naval\\Posicao.cs",
+              "RelativeToolTip": "Batalha_Naval\\Posicao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:42:17.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Embarcacao.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Atividades PUC\\Atp\\Trabalho-ATP\\Batalha_Naval\\Batalha_Naval\\Embarcacao.cs",
+              "RelativeDocumentMoniker": "Batalha_Naval\\Embarcacao.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Atividades PUC\\Atp\\Trabalho-ATP\\Batalha_Naval\\Batalha_Naval\\Embarcacao.cs",
+              "RelativeToolTip": "Batalha_Naval\\Embarcacao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:29:14.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Atividades PUC\\Atp\\Trabalho-ATP\\Batalha_Naval\\Batalha_Naval\\Program.cs",
+              "RelativeDocumentMoniker": "Batalha_Naval\\Program.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Atividades PUC\\Atp\\Trabalho-ATP\\Batalha_Naval\\Batalha_Naval\\Program.cs",
+              "RelativeToolTip": "Batalha_Naval\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:28:47.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
