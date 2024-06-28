@@ -11,6 +11,12 @@ namespace Batalha_Naval
         private int linha;
         private int coluna;
 
+        public Posicao(int linha, int coluna)
+        {
+            this.linha = linha;
+            this.coluna = coluna;
+        }
+
         public int Linha
         {
             get { return linha; }
